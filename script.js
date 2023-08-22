@@ -108,7 +108,7 @@ const About = props => {
 
     React.createElement("div", { className: "desc full" }, /*#__PURE__*/
     React.createElement("h4", { className: "subtitle" }, "My name is Rajbir SIngh."), /*#__PURE__*/
-    React.createElement("p", null, "I am a Final Year Mechanical Engineering Undergrad"), /*#__PURE__*/
+    React.createElement("p", null, "I am a Final Year Mechanical Engineering Undergrad at NIT Srinagar"), /*#__PURE__*/
     React.createElement("p", null, "Hey there, I'm in my final year of mechanical engineering, delving into the intricacies of CFD problem analysis, crafting 3D models with finesse, and coding my way through challenges. But don't let the technical talk fool you \u2013 I'm also the go-to person for a good laugh and a light-hearted moment.")), /*#__PURE__*/
 
 
